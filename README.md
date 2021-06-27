@@ -16,7 +16,7 @@ and notice how the Target Framework says '.Net 6'.
 
 
 
-2) Also there is this issue of not being able to install for example .Net 6 preview version 
+2.a) Also there is this issue of not being able to install for example .Net 6 preview version 
 3 & 5 or any other version and use them for development simultaneously. Only one preview 
 version of any .Net version is allowed to be installed on a PC. 
 
