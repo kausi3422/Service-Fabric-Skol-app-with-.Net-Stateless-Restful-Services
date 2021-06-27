@@ -7,11 +7,11 @@ README.md
 README NOTES (Service Fabric application with Clean Architecuture implementation)
 
 
-1) a) As .Net 6 preview SDK's are used to convert this Skol application to a Service Fabric application,
+1.a) As .Net 6 preview SDK's are used to convert this Skol application to a Service Fabric application,
 it is recommended to enable Visual Studio to support preview sdk's by going to Tools -> Options 
 and then make sure to tick or enable 'Use Previews of the .Net SDK (required restart)'
 
-b) Go to applcation properties of every Class or Console apps of the solution 
+1.b) Go to applcation properties of every Class or Console apps of the solution 
 and notice how the Target Framework says '.Net 6'. 
 
 
